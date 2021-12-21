@@ -1,5 +1,4 @@
 # Alec_Neil_Walking_Robot
-# walking_robot
 Servo motors attached to a circuit board, programed to walk.
 
 Template for the micro:bit servo project.
