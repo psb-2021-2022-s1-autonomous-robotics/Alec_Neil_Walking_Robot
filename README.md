@@ -9,7 +9,7 @@ Template for the micro:bit servo project.
 | --- | --- |
 | Team Name | Walking robot team |
 | Team members | Neil and Leah |
-| Repository | THIS IS THE TEMPLATE LINK https://github.com/psb-2021-2022-s1-autonomous-robotics/walking_robot/tree/main |
+| Repository | THIS IS THE TEMPLATE LINK https://github.com/psb-2021-2022-s1-autonomous-robotics/Alec_Neil_Walking_Robot/blob/main/README.md |
 
 ## What: Description
 
